@@ -1,4 +1,4 @@
-The Visual System Engineering Toolbox (VSET) is a Matlab toolbox designed for calculating the properties of the front end of the visual system.  The VSET code is a portion of Image Systems Engineering Toolbox (ISET) that is sold by Imageval Consulting, LLC.  That code is designed to help industrial partnersdesign novel image sensors. The VSET portion of the ISET code is freely distributed for use in modeling image formation in biological systems.
+The Visual System Engineering Toolbox (VSET) is a Matlab toolbox designed for calculating the properties of the front end of the visual system.  The VSET code is a portion of Image Systems Engineering Toolbox (ISET) that is sold by Imageval Consulting, LLC.  That code is designed to help industrial partners design novel image sensors. The VSET portion of the ISET code is freely distributed for use in modeling image formation in biological systems.
 
 For a general introduction to human vision, please see:
 
@@ -8,6 +8,7 @@ For examples of ISET/VSET code and tutorials on human vision, please see:
 
   https://www.stanford.edu/group/vista/cgi-bin/FOV/computational-examples/
 
+Copyright (c) 2012, Brian A. Wandell wandell@stanford.edu
 
 Implementation notes
 
